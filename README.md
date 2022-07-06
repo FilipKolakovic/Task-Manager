@@ -1,4 +1,4 @@
-# Task-Manager
+# Task-Manager (modern C++ 11/14/17)
 
 Task Manager that manages asynchronous tasks in the app. Task manager is able to create 3 different kind of tasks. 
  One that creates new file and writes there. Second for logging. 
